@@ -14,7 +14,6 @@ const HOLIDAYS = [
     { date: new Date(2026, 3, 15), name: 'วันสงกรานต์', nameEn: 'Songkran Festival' },
     { date: new Date(2026, 4, 1),  name: 'วันแรงงานแห่งชาติ', nameEn: 'National Labour Day' },
     { date: new Date(2026, 4, 4),  name: 'วันฉัตรมงคล', nameEn: 'Coronation Day' },
-    { date: new Date(2026, 4, 13), name: 'วันพืชมงคล', nameEn: 'Royal Ploughing Ceremony Day' },
     { date: new Date(2026, 5, 1),  name: 'วันหยุดชดเชยวันวิสาขบูชา', nameEn: 'Visakha Bucha Day (Substitute)' },
     { date: new Date(2026, 5, 3),  name: 'วันเฉลิมพระชนมพรรษาสมเด็จพระราชินี', nameEn: "Queen Suthida's Birthday" },
 ];
